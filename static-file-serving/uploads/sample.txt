@@ -1,0 +1,9 @@
+This is a sample file from the uploads directory.
+
+It's served through the /files route with custom options:
+- ETags enabled
+- Max age: 1 hour
+- Custom headers added
+- Dotfiles ignored
+
+Access this file at: /files/sample.txt

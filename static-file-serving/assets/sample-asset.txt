@@ -1,0 +1,9 @@
+This is a sample asset file served from the /assets directory.
+
+It demonstrates how to serve static files from custom paths using Express.js.
+
+URL mapping:
+- File location: /assets/sample-asset.txt
+- Served at: /assets/sample-asset.txt
+
+This file shows the flexibility of Express static middleware.
